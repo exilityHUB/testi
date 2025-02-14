@@ -9,7 +9,6 @@ local support = {
     ["alysse"] = false,
     ["ArceusX"] = true,
     ["Electron"] = false,
-    ["Xeno"] = true,
 }
 
 if support[exploit()]  then
