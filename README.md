@@ -80,16 +80,16 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.End
 })
 local Tabs = {
-    Main = Window:AddTab({ Title = "Main", Icon = "rbxassetid://" }),
-    Setting = Window:AddTab({ Title = "Setting", Icon = "rbxassetid://" }),
-    Stats = Window:AddTab({ Title = "Stats", Icon = "rbxassetid://" }),
-    Player = Window:AddTab({ Title = "Player", Icon = "rbxassetid://" }),
-    Teleport = Window:AddTab({ Title = "Teleport", Icon = "rbxassetid://" }),
-    Fruit = Window:AddTab({ Title = "Fruit", Icon = "rbxassetid://" }),
-    Raid = Window:AddTab({ Title = "Raid", Icon = "rbxassetid://" }),
-    Race = Window:AddTab({ Title = "Race V4", Icon = "rbxassetid://" }),
-    Shop = Window:AddTab({ Title = "Shop", Icon = "rbxassetid://" }),
-	Misc = Window:AddTab({ Title = "Misc", Icon = "rbxassetid://" }),
+    Main = Window:AddTab({ Title = "Main", Icon = "rbxassetid://126778905119832" }),
+    Setting = Window:AddTab({ Title = "Setting", Icon = "rbxassetid://126778905119832" }),
+    Stats = Window:AddTab({ Title = "Stats", Icon = "rbxassetid://126778905119832" }),
+    Player = Window:AddTab({ Title = "Player", Icon = "rbxassetid://126778905119832" }),
+    Teleport = Window:AddTab({ Title = "Teleport", Icon = "rbxassetid://126778905119832" }),
+    Fruit = Window:AddTab({ Title = "Fruit", Icon = "rbxassetid://126778905119832" }),
+    Raid = Window:AddTab({ Title = "Raid", Icon = "rbxassetid://126778905119832" }),
+    Race = Window:AddTab({ Title = "Race V4", Icon = "rbxassetid://126778905119832" }),
+    Shop = Window:AddTab({ Title = "Shop", Icon = "rbxassetid://126778905119832" }),
+	Misc = Window:AddTab({ Title = "Misc", Icon = "rbxassetid://126778905119832" }),
 }
 local Options = Fluent.Options
 do
